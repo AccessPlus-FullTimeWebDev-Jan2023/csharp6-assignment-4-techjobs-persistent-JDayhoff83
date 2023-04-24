@@ -4,7 +4,7 @@
 
 --Part 1: List the columns and their data types in the Jobs table.
 
---Jobs Table Columns: Id:int, Name:string, EmployerId:int
+--Jobs Table Columns: Id:int AI PK, Name:longtext, EmployerId:int
 
 --Part 2: Write a query to list the names of the employers in St. Louis City.
 
